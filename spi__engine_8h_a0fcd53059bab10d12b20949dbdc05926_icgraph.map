@@ -1,0 +1,14 @@
+<map id="spi_engine_set_speed" name="spi_engine_set_speed">
+<area shape="rect" id="node1" title="Set SPI engine clock frequency." alt="" coords="712,81,875,108"/>
+<area shape="rect" id="node2" href="$ad400x_8h.html#aa8853947ebfaabcbec5a96e56fbbeced" title=" " alt="" coords="505,5,664,32"/>
+<area shape="rect" id="node5" href="$ad400x_8h.html#a9a7bf1c10fdd11f0e729e951c485792c" title=" " alt="" coords="505,56,664,83"/>
+<area shape="rect" id="node6" href="$ad469x_8h.html#a29fa81e8b7bda592a13959d2f7467e00" title=" " alt="" coords="505,107,664,133"/>
+<area shape="rect" id="node12" href="$ad469x_8h.html#a5229fb4d37180b1359fdc0086f8b3528" title=" " alt="" coords="505,157,664,184"/>
+<area shape="rect" id="node3" href="$ad400x_8h.html#aa687296d0489743858a3518864d8e46a" title=" " alt="" coords="323,31,418,57"/>
+<area shape="rect" id="node4" href="$ad400x__fmcz_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="93,31,148,57"/>
+<area shape="rect" id="node7" href="$ad469x_8h.html#a1ead06cbf08ce55e3968fbe012404cf0" title=" " alt="" coords="285,107,457,133"/>
+<area shape="rect" id="node8" href="$ad469x_8h.html#a1d320a09c42214fd9a3a3e817905f68a" title=" " alt="" coords="284,157,457,184"/>
+<area shape="rect" id="node9" href="$ad469x_8c.html#a9d0b903c127a29bfdbe2f48cb7e085f7" title="Enter conversion mode. To exit conversion mode send a 5 bit conversion mode command AD469x_CMD_REG_CO..." alt="" coords="5,107,236,133"/>
+<area shape="rect" id="node10" href="$ad469x_8c.html#abdc7812a777bfc86481f0514b2c3ac15" title="Configure converter busy indicator to the output of the specified port." alt="" coords="54,157,187,184"/>
+<area shape="rect" id="node11" href="$ad469x_8c.html#a98894c2703a93e32ac8939521cf05198" title="Set channel sequesnce." alt="" coords="44,209,197,250"/>
+</map>

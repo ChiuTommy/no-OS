@@ -1,0 +1,9 @@
+<map id="spi_engine_offload_transfer" name="spi_engine_offload_transfer">
+<area shape="rect" id="node1" title="Initiate a SPI transfer in offload mode." alt="" coords="436,78,576,119"/>
+<area shape="rect" id="node2" href="$ad469x_8c.html#abda6b9d65e0b6e2a82390a09a8f08eb8" title="Exit conversion mode. Enter register mode to read/write registers." alt="" coords="169,5,388,32"/>
+<area shape="rect" id="node3" href="$ad469x_8h.html#a92cd606b28fd68b3a2c52717552818df" title="Read from device. Enter register mode to read/write registers." alt="" coords="208,56,349,83"/>
+<area shape="rect" id="node5" href="$iio__ad713x_8c.html#ad4cff533f1b6bfdfe456a574ed302e23" title="Transfer data from device into RAM." alt="" coords="205,107,352,149"/>
+<area shape="rect" id="node7" href="$ad400x__fmcz_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="251,173,306,200"/>
+<area shape="rect" id="node4" href="$ad469x__fmcz_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="36,56,91,83"/>
+<area shape="rect" id="node6" href="$iio__ad713x_8h.html#a259a55182ae9a8bbf607f56a79f97f45" title="Initialization function." alt="" coords="5,115,121,141"/>
+</map>

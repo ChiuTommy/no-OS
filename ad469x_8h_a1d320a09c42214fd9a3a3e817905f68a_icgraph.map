@@ -1,0 +1,6 @@
+<map id="ad469x_spi_write_mask" name="ad469x_spi_write_mask">
+<area shape="rect" id="node1" title=" " alt="" coords="284,56,457,83"/>
+<area shape="rect" id="node2" href="$ad469x_8c.html#a9d0b903c127a29bfdbe2f48cb7e085f7" title="Enter conversion mode. To exit conversion mode send a 5 bit conversion mode command AD469x_CMD_REG_CO..." alt="" coords="5,5,236,32"/>
+<area shape="rect" id="node3" href="$ad469x_8c.html#abdc7812a777bfc86481f0514b2c3ac15" title="Configure converter busy indicator to the output of the specified port." alt="" coords="54,56,187,83"/>
+<area shape="rect" id="node4" href="$ad469x_8c.html#a98894c2703a93e32ac8939521cf05198" title="Set channel sequesnce." alt="" coords="44,107,197,149"/>
+</map>
